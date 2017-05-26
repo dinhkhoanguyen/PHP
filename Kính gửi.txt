@@ -1,0 +1,57 @@
+
+------CÔNG VIỆC 2 TUẦN QUA-------
+
+Khi đọc anh nhớ bình tĩnh, em sẽ nói cả quá trình.
+
+* Khi bắt đầu đề tài (thứ 6):
+ - Tìm hiểu cách sử dụng github:
+  + Đưa code lên github.
+  + Thêm cộng tác vào.
+  -> Thứ 7 hoàn thành.
+  -> Chủ nhật do bận công việc ở quê nên không có làm.
+  
+ - Bắt đầu xem mô hình mvc như thế nào:
+  + Tìm hiểu mô hình.
+  + Mô hình trong thực tế.
+  + Mô hình trong lập trình.
+  -> Thứ 2, thứ 3.
+  
+ - Trong quá trình tìm hiểu do em không biết nên không update thường xuyên
+ nên kêu em xem phần WorkFlow (thứ 4):
+  + Em bắt đầu xem lúc anh đưa trên công ty thực tập do hôm đó không có việc.
+  + Coi nguyên đêm hôm thứ 4 luôn nhưng chỉ hiểu sơ sơ.
+ 
+ - Coi xong nguyên đêm nhưng không hiểu lắm nên định hỏi nhưng sợ bị la nên em
+ không hỏi tiếp tục xem tài liệu PHP, xem PHP theo mô hình mvc.
+  -> Trong ngày thứ 5.
+  
+ - Em nhận đề tài ở công ty và tìm hiểu nên không có thời gian cho PHP, mất thời
+ tìm hiểu đề tài của công ty.
+  -> Thứ 6, thứ 7 em có nói anh là nhóm để tìm hiểu và quuyết định ngôn ngữ, phân công...
+ 
+ - Do có chuyện độ xuất ở quê nên em lại mất 4 ngày (chủ nhật, thứ 2, 3, 4).
+
+ - Biết là sắp hết hạn báo cáo anh nên những ngày còn lại em tập trung làm PHP nhưng em
+ nói thật anh đừng la là tìm hiểu nhưng được cũng chút chút và bắt đầu cài đặt Xampp thì
+ localhost gặp vấn đề không kết nói được, định hỏi nhưng thoi em tự tìm cách và biết được
+ Xampp thì appserv cũng làm PHP được nên thử.
+ -> quá mất thời gian.
+
+ * Kết quả khi kết thúc 2 tuần.
+ - Thật tình hôm này em xin nói với anh là em mới làm được là
+  + Thiết kế kiến trúc website trên giấy.
+  + Xây dựng chức năng đăng ký, đăng nhập, ghi nhớ đăng nhập, quên mật khẩu.
+ 
+ - Có thể do em quá gà nên tới thời điểm này chưa có gì gọi là chuyên, đến chuyện
+ học PHP 2 tuần trôi qua cũng chưa làm được gì.
+  + Nhưng thiệt là do em vào công ty từ sáng đền tối, công ty giao việc, training,
+  báo cáo các kiểu nên thời gian rãnh trên công ty không có, chỉ có buổi tối
+  + Nhưng tối 3, 5, 7 em lại học TOEIC, giao tiếp nên thời gian rãnh cúng ít mỗi lần về là đuối.
+  + Ngoài ra công ty còn cho bài về tiếng Nhật, có quyền không học nhưng hỏi trả lời không được
+  phải đóng 10k/lần, ngaoì ra còn bị trừ điểm về chuyên cần.
+ 
+ - Cuối cùng, chắc em sẽ bị anh la, có thể bị anh reject nhưng cho em nói câu này rất vui khi được
+ anh chia sẽ những kinh nghiệm của anh, hướng dẫn, chỉ tào liệu cho xem, nhận tụi em làm trò nhưng
+ không vật chât.
+ 
+ CÁM ƠN ANH RẤT NHIỀU !!!
